@@ -1,3 +1,25 @@
+Kassandra is a suite of software tools designed to give resellers with assistance and guidance to start up and build their companies and organisations in a more effective way. It strives to provide the precise and lasting unification of all sectors of traders and manufacturers. By curating analyzers, predictors, manager tools Kassandra aims to bridge the mammoth deficit in technology infrastructure present today in the organized/unorganized retail sector. Kassandra aims to make the supply chain as agile as it has ever been, right from the warehouse to the customer's doorstep using a wide array of machine learning and artificial intelligence services to build tools and add-ons on the web-platform. This enables the merchants to smartly manage their stock units, prepare for any demand spikes using demand forecasting feature on the platform avoiding any stock cold storage or wastage and capital loss.
+
+# Implementation
+
+A. A brilliant recommender framework API coordinated in a smoothed out way utilizing local backend worker of Node.js is curated in the application pipeline to propose items with comparable costs having a place with the very class as that of the item, retailer or a shipper is worried about from the wide range of various retailers separated by web based business stages and segment districts of revenue
+
+Services Used: Model trained via Azure Databricks. The related API would be deployed using : Azure Kubernetes Service, Azure Cosmos DB, Azure Machine Learning Service, Azure Kubernetes Service, Azure Storage for MySQL.
+
+B. A shrewd business interface supplier administration that makes certain business prompts recognize each other for better versatility and reasonability of their items and benefits. We at Kassandra make this conceivable by suggesting Businesses their focused on and prime B2B leads considering their items Demographics and Geographics and so forth.
+
+Services Used: Model trained via Azure Databricks. The related API would be deployed using : Azure Kubernetes Service, Azure Cosmos DB, Azure Machine Learning Service, Azure Kubernetes Service, Azure Storage for MySQL.
+
+C. Each organization should anticipate the future with the goal that better choices might be taken for exact arrangement of interest spikes for items and administrations giving upper hand to an enterprise. Kassandra gives a savvy interface wherein shippers anticipate stock patterns in different segment areas and dependent on requests oversee stock units staying away from stock wastage and capital misfortune at every possible opportunity.
+
+Services Used: We build a smart allocator algorithm using Microsoft AI Platform. The calculation is further Improved utilizing Microsoft Azure and the accompanying highlights are added :
+
+            1. Data Intake
+            2. Data Storage
+            3. Data Processing
+            4. Sophisticated Analysis
+D. Kassandra likewise expects to give a bunch of proficient highlights focused towards improving the representatives' work conditions. Kassandra centers around enabling the representatives and gives them a few guides in the spaces related (yet not restricted to) to improving their work happiness, improving their work conditions, a concentrated checking framework, alternatives to plan gatherings, setting expectations and furthermore business.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
