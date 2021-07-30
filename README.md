@@ -1,5 +1,9 @@
 Kassandra is a suite of software tools designed to give resellers with assistance and guidance to start up and build their companies and organisations in a more effective way. It strives to provide the precise and lasting unification of all sectors of traders and manufacturers. By curating analyzers, predictors, manager tools Kassandra aims to bridge the mammoth deficit in technology infrastructure present today in the organized/unorganized retail sector. Kassandra aims to make the supply chain as agile as it has ever been, right from the warehouse to the customer's doorstep using a wide array of machine learning and artificial intelligence services to build tools and add-ons on the web-platform. This enables the merchants to smartly manage their stock units, prepare for any demand spikes using demand forecasting feature on the platform avoiding any stock cold storage or wastage and capital loss.
 
+Kassandra Web App Walkthrough - https://drive.google.com/file/d/1d1lBRdF8dtIyRTOlejjgbjCaxRIPd2AG/view
+
+Kassandra Web - https://mango-bay-0efde5810.azurestaticapps.net/
+
 # Implementation
 
 A. A brilliant recommender framework API coordinated in a smoothed out way utilizing local backend worker of Node.js is curated in the application pipeline to propose items with comparable costs having a place with the very class as that of the item, retailer or a shipper is worried about from the wide range of various retailers separated by web based business stages and segment districts of revenue
